@@ -1,10 +1,15 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The following code will be used throughout the tutorial to give specific examples for how the components of regex can be used. The following code can be used for matching emails. One use for this code is that it can be used to validate to make sure that an email follows the correct format.
+
+Matching Email:
+
+
+
 
 ## Table of Contents
 
